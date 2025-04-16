@@ -1,0 +1,7 @@
+google-generativeai
+pyaudio
+speechrecognition
+requests
+pymongo
+deepface
+opencv-python
